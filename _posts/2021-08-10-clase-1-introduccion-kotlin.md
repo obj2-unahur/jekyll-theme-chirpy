@@ -8,7 +8,8 @@ lecturas:
   - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/wollok-a-kotlin/
   - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/matchers-kotest/
 videos:
-  - nombre: Presentación
+  - id: MXZrNUiW3j0
+    nombre: Presentación
     descripcion: >
       Clase en vivo de apertura de la materia.
   - id: ldW5u6ugpus

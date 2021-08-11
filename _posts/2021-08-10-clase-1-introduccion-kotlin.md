@@ -20,11 +20,11 @@ videos:
     descripcion: >
       Cómo clonar, commitear y pushear 100% desde el IDE, sin abrir para nada la consola.
 entrega:
-  fecha: "2021-04-13 23:59"
+  fecha: "2021-08-23 23:59"
   ejercicios:
   - nombre: Vendedores
     repo: obj2-unahur/vendedores-kotlin
-    classroom: https://classroom.github.com/a/ly5giJym
+    classroom: https://classroom.github.com/a/Ea-EUEds
 ---
 
 Te damos la bienvenida a este espacio curricular llamado oficialmente **Programación de Objetos II**, pero que (en línea con los contenidos) llamaremos de aquí en más Programación **con** Objetos II. La diferencia es sutil pero importante: _de_ objetos puede sonar a que creamos objetos físicos con programación, en cambio _con_ objetos da a entender que nos valemos de ellos para construir otras cosas. :smiley:

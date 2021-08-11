@@ -5,6 +5,7 @@ author: faloi
 categories: [Clases]
 tags: [kotlin, wollok]
 lecturas:
+  - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/guia-instalacion-intellij-idea/
   - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/wollok-a-kotlin/
   - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/matchers-kotest/
 videos:

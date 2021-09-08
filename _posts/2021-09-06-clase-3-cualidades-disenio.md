@@ -13,7 +13,7 @@ videos:
       Un español barbudo que, a nuestro juicio, explica de forma muy clara los patrones de diseño.
 lecturas:
   - url: https://surprograma.github.io/libro-disenio-oop/docs/cualidades-disenio/cualidades-independientes-tecnologia/
-  - url: https://surprograma.github.io/libro-disenio-oop/docs/cualidades-disenio/tecnicas-disenio/refactorizacion/
+  - url: https://surprograma.github.io/libro-disenio-oop/docs/tecnicas-disenio/refactorizacion/
   - url: https://refactoring.guru/es/design-patterns/strategy
     title: Patrón "Strategy"
     summary: Una forma _objetosa_ de modelar estrategias que pueden intercambiarse.

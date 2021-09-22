@@ -26,9 +26,11 @@ entrega:
   - nombre: Tareas (Kotlin)
     repo: surprograma/disenio-kt-tareas
     classroom: https://classroom.github.com/g/yua9jFCQ
+    descripcion: Solamente tienen que resolver la **etapa 1**.
   - nombre: Tareas (TypeScript)
     repo: surprograma/disenio-ts-tareas
     classroom: https://classroom.github.com/g/cPeqtIvd
+    descripcion: Solamente tienen que resolver la **etapa 1**.
 ---
 
 ## Objetivos de la clase

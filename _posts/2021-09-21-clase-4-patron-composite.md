@@ -16,6 +16,7 @@ lecturas:
   - url: https://refactoring.guru/es/design-patterns/composite
     title: Patrón "Composite"
     summary: Un patrón nuevo, que tienen que aplicar en el ejercicio de la semana.
+  - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/herramientas-lenguaje/manejo-fechas/
   - url: https://refactoring.guru/es/design-patterns/template-method
     title: Patrón "Template method"
     summary: Otro más, que probablemente ya aplicaron sin saber que tenía un nombre.

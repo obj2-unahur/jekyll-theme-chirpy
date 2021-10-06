@@ -10,7 +10,7 @@ videos:
   - id: mFBKbBWRq_E
     nombre: Programando y testeando una aplicación de consola en Kotlin
     descripcion: >
-      Una versión "objetosa" de cómo hacer una aplicación de consola, con tests incluidos.
+      Una versión "objetosa" de cómo hacer una aplicación de consola, con tests incluidos. La parte de la `Consola` ya la tienen resuelta en el código que incluimos en el ejercicio.
 lecturas:
   - url: https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit#heading=h.5bqwe0zgcgud
     title: Apunte sobre Testing

@@ -1,6 +1,6 @@
 ---
 title: 'Clase 4 - Patrón Composite'
-date: 2021-09-07
+date: 2021-09-21
 author: faloi
 categories: [Clases]
 tags: [kotlin, tdd, pruebas]

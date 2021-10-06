@@ -12,6 +12,9 @@ videos:
     descripcion: >
       Una versión "objetosa" de cómo hacer una aplicación de consola, con tests incluidos. La parte de la `Consola` ya la tienen resuelta en el código que incluimos en el ejercicio.
 lecturas:
+  - url: https://obj2-unahur.github.io/encuentros-sincronicos/clase5
+    title: Diapositivas de la clase
+    summary: Lo que ~~se ve~~ se debería ver en la grabación del encuentro. 🤦
   - url: https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit#heading=h.5bqwe0zgcgud
     title: Apunte sobre Testing
     summary: Un apunte muy completo relacionado al testing. En particular nos interesa que lean la sección sobre **impostores**, pero no vendría mal ojearlo completo.

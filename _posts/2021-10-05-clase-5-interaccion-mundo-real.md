@@ -7,6 +7,10 @@ tags: [kotlin, tdd, pruebas]
 videos:
   - id: nRW2Aq8Wlvo
     nombre: Encuentro sincrónico del 5 de Octubre
+  - id: hVpBcYIyAGY
+    nombre: Espacio de consultas del 12 de Octubre
+    descripcion: >
+      Grabamos este pequeño video para hacer algunas aclaraciones sobre cómo transformar las tareas que vienen del JSON.
   - id: mFBKbBWRq_E
     nombre: Programando y testeando una aplicación de consola en Kotlin
     descripcion: >

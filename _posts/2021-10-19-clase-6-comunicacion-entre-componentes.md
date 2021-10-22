@@ -16,6 +16,7 @@ lecturas:
     title: Patrón "Observer"
     summary: El patrón de comunicación que comentamos durante el encuentro sincrónico, que debería servirles para resolver el ejercicio.
   - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/herramientas-lenguaje/manejo-fechas/
+  - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/herramientas-lenguaje/manipulacion-strings/
 entrega:
   fecha: "2021-11-01 23:59"
   ejercicios:

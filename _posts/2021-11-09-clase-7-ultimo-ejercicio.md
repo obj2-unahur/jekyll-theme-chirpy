@@ -1,5 +1,5 @@
 ---
-title: 'Clase 7 - El último ejercicio'
+title: "Clase 7 - El último ejercicio"
 date: 2021-10-19
 author: faloi
 categories: [Clases]
@@ -12,9 +12,12 @@ videos:
 entrega:
   fecha: "2021-11-22 23:59"
   ejercicios:
-  - nombre: Países impostores (Kotlin)
-    repo: surprograma/disenio-kt-paises-impostores
-    classroom: https://classroom.github.com/a/G_TSx27H
+    - nombre: Países impostores (Kotlin)
+      repo: surprograma/disenio-kt-paises-impostores
+      classroom: https://classroom.github.com/a/G_TSx27H
+    - nombre: Países impostores (TypeScript)
+      repo: surprograma/disenio-ts-paises-impostores
+      classroom: https://classroom.github.com/a/VsX8U8MH
 ---
 
 Esta última clase tiene el objetivo de afianzar todo lo que aprendieron en la segunda parte de la materia.

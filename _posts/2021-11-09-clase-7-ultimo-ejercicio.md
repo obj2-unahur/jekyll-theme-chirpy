@@ -9,6 +9,10 @@ videos:
     nombre: Encuentro sincrónico del 9 de Noviembre
     descripcion: >
       Las diapositivas de la clase pueden verse en [este link](https://obj2-unahur.github.io/encuentros-sincronicos/clase7).
+  - id: 8hao2GwluIQ
+    nombre: Clase de consultas del 16 de Noviembre
+    descripcion: >
+      A pedido del público, hicimos una pequeña explicación sobre qué son los impostores (mock), cómo y cuándo usarlos.
 entrega:
   fecha: "2021-11-22 23:59"
   ejercicios:

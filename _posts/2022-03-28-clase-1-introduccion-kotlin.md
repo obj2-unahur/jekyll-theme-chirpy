@@ -5,9 +5,9 @@ author: faloi
 categories: [Clases]
 tags: [kotlin, wollok]
 lecturas:
-  - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/guia-instalacion-intellij-idea/
-  - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/wollok-a-kotlin/
-  - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/matchers-kotest/
+  - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/entorno-desarrollo/guia-instalacion-intellij-idea/
+  - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/herramientas-lenguaje/wollok-a-kotlin/
+  - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/herramientas-lenguaje/matchers-kotest/
 videos:
 #  - id: MXZrNUiW3j0
 #    nombre: Presentación
